@@ -26,7 +26,7 @@ $canonical = $siteBase . '/';
 <body class="<?= $darkMode ?>">
 
     <nav class="navbar" id="siteNav">
-        <div class="nav-logo">Akaagreen<span>Development</span></div>
+        <div class="nav-logo">The Last CodeBender<span></span></div>
         <ul class="nav-links">
             <li><a href="#hero">Home</a></li>
             <li><a href="#about">About</a></li>
@@ -68,7 +68,7 @@ $canonical = $siteBase . '/';
         <div class="hero-inner">
         <div class="hero-content">
             <p class="hero-eyebrow reveal"><span class="hero-eyebrow-dot"></span> Available for projects</p>
-            <h1 class="reveal reveal-delay-1">Hello, I'm <span class="gradient-name">Melih Akbalık</span></h1>
+            <h1 class="reveal reveal-delay-1"> <span class="gradient-name">Melih Akbalık</span></h1>
             <p class="hero-role reveal reveal-delay-2"><span id="typed-text"></span><span class="typed-cursor" aria-hidden="true"></span></p>
             <p class="hero-desc reveal reveal-delay-3">Turning ideas into clean, scalable code.</p>
             <div class="hero-actions reveal reveal-delay-4">
