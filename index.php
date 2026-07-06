@@ -26,7 +26,7 @@ $canonical = $siteBase . '/';
 <body class="<?= $darkMode ?>">
 
     <nav class="navbar" id="siteNav">
-        <div class="nav-logo">Melih<span>.dev</span></div>
+        <div class="nav-logo">Akaagreen<span>Development</span></div>
         <ul class="nav-links">
             <li><a href="#hero">Home</a></li>
             <li><a href="#about">About</a></li>
@@ -90,13 +90,7 @@ $canonical = $siteBase . '/';
                     >
                 </div>
             </div>
-            <div class="hero-float-card">
-                <span class="hero-float-icon" aria-hidden="true">⌘</span>
-                <div class="hero-float-text">
-                    <strong>Software Engineering</strong>
-                    <span>Architecture · APIs · Data</span>
-                </div>
-            </div>
+            
             <p class="photo-credit">Photo: <a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
         </div>
         </div>
